@@ -1,294 +1,415 @@
-# 02a — LICITAÇÃO · EXTRAÇÃO (Fase 1)
+# 02a — LICITAÇÃO · EXTRAÇÃO (Fase 1) — REVISADA com o Edital
 
-> Agente 02 — Fase 1: extração pura dos dispositivos relativos à licitação. Sem análise.
-
-> **AVISO MATERIAL DE ESCOPO**: o ANEXO 1 (Edital e Apêndices) — único documento que regula com profundidade a habilitação, qualificação técnica, qualificação econômico-financeira, garantia de proposta, critério de julgamento, consórcio e procedimento licitatório — consta no repositório APENAS como CAPA (1 página). O **corpo do Edital, o Apêndice 1 (Definições) e o Manual de Procedimentos B3 (Apêndice 5) também só constam como capa**. Portanto, esta extração é COMPLETA quanto ao que está nos documentos juntados, mas necessariamente INCOMPLETA quanto ao que rege o procedimento licitatório, porque o corpo do Edital — que é o documento central — não foi disponibilizado.
+> Agente 02 — Fase 1: extração pura. Sem análise.
 >
-> Os dispositivos abaixo foram garimpados em: (i) Apêndice 2 — Minuta do Contrato (referências cruzadas ao Edital e regras sobre a SPE); (ii) Apêndice 3 — Modelos de Cartas e Declarações; (iii) Apêndice 4-B — Diretrizes para a Proposta Comercial; (iv) Doc. de Suporte — Alteração do Estatuto Social e Contrato de Programa; (v) Apêndice 7 — Minuta de Convênio.
+> **Versão revisada após inclusão do Edital propriamente** (`Edital-Pro-Sinos-Concessao-RDO.pdf`, 53 páginas, ato do Consórcio Público de Saneamento Pró-Sinos — CNPJ 09.150.005/0001-75, sede em São Leopoldo/RS, Rua Dietrich Hilbk, 80).
+>
+> O Edital está dividido em 7 Capítulos: I — Disposições Preliminares (itens 1–13); II — Edital (14–32); III — Licitação (33–126); IV — Procedimento (127–153); V — Homologação e Adjudicação (154–157); VI — Formalização do Contrato (158–173); VII — Disposições Finais (174–180). Tudo abaixo está numerado pelos **itens do Edital** (não pelas seções).
+>
+> **Aviso de escopo remanescente**: o **Apêndice 1 — Definições do Edital e do Contrato** continua não consta do repositório, embora seja listado no item 9.a do Edital. O Apêndice 5 (Manual B3) e o Apêndice 6 (Esclarecimentos) também seguem como capa.
 
 ---
 
 ## 1. HABILITAÇÃO JURÍDICA
 
-### 1.1. Sociedade de Propósito Específico (SPE)
+### 1.1. Quem pode participar
 
-**Apêndice 2 — Contrato, cláusula 8.1 (p. 9):**
-> "A CONCESSIONÁRIA é uma sociedade de propósito específico, com sede no Município de [•]."
+**Item 33 do Edital (p. 12):**
+> "Poderão participar da LICITAÇÃO pessoas jurídicas brasileiras ou estrangeiras em funcionamento no Brasil, inclusive fundos de investimentos, entidades de previdência privada e instituições financeiras, isoladamente ou reunidas em consórcio, desde que satisfaçam plenamente as exigências e condições deste EDITAL e da legislação pertinente."
 
-**Apêndice 3, Modelo 11 — Declaração de Comprometimento de Constituição de Subsidiária Integral (p. 20):**
-> "A [LICITANTE] [...] DECLARA [...] em atendimento ao EDITAL, que caso seja declarada vencedora [...] constituirá uma subsidiária integral, segundo as leis brasileiras, com sede e administração em um dos MUNICÍPIOS do CONSÓRCIO PÚBLICO que integram a CONCESSÃO, que terá como único objeto a prestação dos SERVIÇOS na ÁREA DA CONCESSÃO [...]
-> A LICITANTE compromete-se, ainda, a adotar, na subsidiária integral, os padrões de governança corporativa, de contabilidade e de demonstrações financeiras padronizadas, de acordo com as práticas contábeis adotadas no Brasil, baseadas na legislação societária brasileira, nos pronunciamentos estabelecidos pelo Comitê de Pronunciamentos Contábeis – CPC, nas regras e regulamentações da Comissão de Valores Mobiliários – CVM e nas normas contábeis emitidas pelo Conselho Federal de Contabilidade – CFC."
+### 1.2. Vedações de participação
 
-**Apêndice 2 — Contrato, cláusula 8.2 (p. 9):**
-> "A CONCESSIONÁRIA deve manter como único objeto social a execução do objeto da CONCESSÃO, com a prestação dos SERVIÇOS e a exploração de fontes de RECEITAS EXTRAORDINÁRIAS."
+**Item 34 do Edital (pp. 12–13):**
+> a) inidôneas para licitar com a Administração Pública;
+> b) em cumprimento de pena de impedimento com qualquer dos MUNICÍPIOS;
+> c) com falência decretada;
+> d) em recuperação judicial ou extrajudicial cujo plano não tenha sido acolhido (Lei 11.101/05);
+> e) condenadas por crimes ambientais (art. 10 da Lei 9.605/98);
+> f) com sanção restritiva por infração ambiental (art. 72, § 8°, V, Lei 9.605/98);
+> g) sob intervenção da PREVIC;
+> h) que ofereça mais de uma proposta (isolada ou via consórcio, coligadas, controladas, controladoras ou sob controle comum);
+> i) cujos dirigentes/sócios/quadro técnico sejam servidores dos Municípios ou tenham sido nos últimos 180 dias;
+> j) que tenham participado, direta ou indiretamente, dos estudos técnicos da licitação;
+> k) com vínculo pessoal/familiar com dirigente do ente contratante;
+> l) condenadas com trânsito em julgado por trabalho infantil, escravo ou contratação ilegal de adolescentes nos últimos 5 anos.
 
-### 1.2. Objeto exclusivo e governança
+**Item 35 (p. 13)**: definição de "participação indireta" para fins do item 34 j) — vínculo técnico/comercial/econômico/financeiro/trabalhista.
+**Item 36 (p. 13)**: pessoas jurídicas em recuperação judicial precisam apresentar plano homologado pelo juízo.
 
-**Apêndice 2 — Contrato, cláusula 8.8 a 8.11 (pp. 10–11)**: a SPE deve seguir o Código Brasileiro de Governança Corporativa (IBGC), adotar Lei 6.404/76, política de transações com partes relacionadas (8.10), conselho de administração com membros independentes (8.11.1), comitê de auditoria com orçamento próprio (8.11.2), auditoria interna respondendo ao Conselho (8.11.3), canal de denúncia independente (8.11.4), comitê de ética e conduta com membros independentes (8.11.5).
+### 1.3. Comprovação da habilitação jurídica (itens 104 a 107, pp. 30–32)
 
-### 1.3. Localização da sede
+**Item 104**: documentação por tipo de pessoa jurídica:
+- (a) empresa individual: registro comercial;
+- (b) sociedade simples: ato constitutivo + alterações + diretoria;
+- (c) sociedade empresária: ato constitutivo + alterações;
+- (d) S.A./Ltda: ato + eleição dos administradores;
+- (e) empresa ou sociedade estrangeira autorizada a funcionar: atos constitutivos + ato de registro/autorização;
+- (f) **fundo de investimento**: registro CVM + ato constitutivo + regulamento + comprovante de registro do administrador/gestor + prova de eleição + autorização dos cotistas + certidão negativa de falência da administradora/gestora;
+- (g) **entidade aberta/fechada de previdência complementar**: ata da administração + regulamento + autorização do órgão fiscalizador + declaração/certidão de que os planos não estão sob liquidação;
+- (h) **instituição financeira**: comprovante de autorização da entidade reguladora do setor.
 
-**Apêndice 3, Modelo 11**: a sede deve estar "em um dos MUNICÍPIOS do CONSÓRCIO PÚBLICO que integram a CONCESSÃO" (15 municípios da concessão).
-**Apêndice 2, cláusula 8.1**: "Município de [•]" — campo aberto, mas o Modelo 11 já restringe a opção.
-
-### 1.4. Pessoa Jurídica Estrangeira — referências
-
-**Apêndice 3, Modelo 8 — Declaração de Submissão à Legislação Brasileira (p. 17)**:
-> "A [LICITANTE] [...] DECLARA [...] sua expressa submissão à legislação brasileira para todos os efeitos relacionados ao EDITAL. A LICITANTE também renuncia a qualquer direito de reclamação por via diplomática."
-
-**Apêndice 3, Modelo 9 — Equivalência de Documentos (p. 18)**: tabela de correspondência entre documentos do Brasil e do país de origem.
-**Apêndice 3, Modelo 10 — Inexistência de Documento Equivalente (p. 19)**: declaração quando o documento equivalente não exista no país de origem.
-
-**Lacuna**: nenhum desses dispositivos detalha requisitos específicos para fundo de investimento, previdência complementar ou instituição financeira como licitantes. Esse detalhamento, se existente, está no corpo do Edital, **ausente**.
-
-### 1.5. Fato impeditivo e elaboração independente
-
-- **Apêndice 3, Modelo 14 (p. 24)**: Declaração de Inexistência de Fato Impeditivo (sócios e administradores sem restrição de direitos por sentença criminal transitada).
-- **Apêndice 3, Modelo 15 (pp. 25–26)**: Declaração de Elaboração Independente da Proposta (art. 299 do Código Penal).
-- **Apêndice 3, Modelo 12 (p. 22)**: Declaração art. 7º, XXXIII, da CF (vedação de trabalho a menores).
-- **Apêndice 3, Modelo 13 (p. 23)**: Declaração de cumprimento das exigências de reserva de cargos para PCD (art. 63, IV, Lei 14.133/21).
-- **Apêndice 3, Modelo 7 (pp. 15–16)**: Declaração quanto ao atendimento dos critérios de desempate do art. 60, § 1°, I a IV, da Lei 14.133/21.
+**Item 105 (p. 32):** se participação isolada, declaração de constituir CONCESSIONÁRIA como **subsidiária integral**, com sede em um dos Municípios da concessão.
+**Item 106 (p. 32):** declarações sobre art. 7º XXXIII CF; reserva de cargos para PCD; inexistência de fato impeditivo; elaboração independente.
+**Item 107 (p. 32):** em consórcio, cada consorciada apresenta individualmente todos os documentos jurídicos.
 
 ---
 
 ## 2. QUALIFICAÇÃO TÉCNICA
 
-### 2.1. Visita técnica
+### 2.1. Capacidade técnica profissional (item 110 a, pp. 34–35)
 
-**Apêndice 3, Modelo 2 — Atestado de Visita Técnica (p. 5)**:
-> "Atesto que a [LICITANTE] realizou a VISITA TÉCNICA **facultativa** no(s) dia(s) [•] [...] com a finalidade de conhecer e verificar a ÁREA DA CONCESSÃO [...]"
+> "Atestado que demonstre experiência de profissional(is) vinculado(s) à LICITANTE como responsável técnico pela execução de serviços de características semelhantes aos do objeto do CONTRATO, assim entendidos:
+> (i) Operação de coleta e transporte de resíduos sólidos, com capacidade mínima de **[●] ([●]) toneladas/dia**; e
+> (ii) Operação de unidade(s) de tratamento ou de disposição final ambientalmente adequada de resíduos sólidos urbanos com capacidade mínima de **[●] ([●]) toneladas/dia**.
+> (iii) **Não será admitido o somatório de atestados** para o cumprimento das exigências previstas no item 110, a), (i) e (ii) acima.
+> (iv) O vínculo do(s) profissional(is) com a LICITANTE deve ser demonstrado por meio de uma das seguintes formas:
+>     (a) carteira profissional ou ficha de empregado; ou
+>     (b) contrato de trabalho ou contrato de prestação de serviços ou ata de eleição como administrador; ou
+>     (c) carta de intenção [...] indicando que, caso a LICITANTE se sagre vencedora [...], o profissional será contratado pela CONCESSIONÁRIA [...]"
 
-**Apêndice 3, Modelo 3 — Termo de Renúncia (p. 6)**: a Licitante pode renunciar à visita, declarando:
-> "(i) que tinha a possibilidade de fazer a visita técnica [...]
-> (ii) renunciou à realização da VISITA TÉCNICA facultativa;
-> (iv) tem pleno conhecimento das atividades [...]
-> (v) tem total capacidade para a elaboração de sua PROPOSTA COMERCIAL [...]"
+### 2.2. Capacidade técnica empresarial — operação de ativo de infraestrutura (item 110 b, pp. 35–37)
 
-**Apêndice 3, Modelo 1 — Solicitação de Esclarecimentos (p. 3)**: procedimento padrão para pedidos de esclarecimento.
+> "Atestado que demonstre experiência da LICITANTE VENCEDORA ao longo de, no mínimo, **12 (doze) meses consecutivos**, como responsável pela **gestão/administração de ativo de infraestrutura** que tenha gerado receita operacional anual durante o período de operação da LICITANTE VENCEDORA de, no mínimo, **R$ [●] ([●])**.
+> (i) [...] será admitido **somatório de atestados**, desde que um atestado demonstre, isoladamente, [...] receita operacional anual de, no mínimo, **R$ [●] ([●]), correspondente à 50%** (cinquenta por cento) do valor total da experiência exigida [...];
+> (ii) Os atestados poderão se referir a contratos em andamento [...];
+> (iii) [...] não se exigirá que a LICITANTE VENCEDORA tenha participado da administração do ativo de infraestrutura na fase de sua implantação;
+> (iv) Será considerado responsável [...]: (a) o responsável direto, individualmente [...]; (b) o consorciado, com participação mínima de **10%** [...]; (c) o acionista da empresa responsável, com participação acionária mínima de **10%**; ou (d) por qualquer outra forma [...] com posição que lhe confira poderes decisórios [...];
+> (v) **Será considerado ativo de infraestrutura** [...]: (a) saneamento básico; (b) comunicações; (c) logística [rodovias, transportes]; (d) energia; (e) prestação de serviços públicos; (f) infraestrutura social (escolas, habitação, hospitais, unidades básicas de saúde, prisionais); ou (g) outros ativos de infraestrutura de complexidade equivalente ou superior;
+> (vi) O prazo de 12 meses [...] se refere, exclusivamente, ao período em que a LICITANTE VENCEDORA tenha atuado como **administradora** do referido ativo, durante a sua fase de operação;
+> [...]
+> (ix) Em caso de LICITANTE em forma de consórcio, a empresa consorciada que apresentar o(s) atestado(s) [...] deverá deter **20% de participação** no consórcio."
 
-### 2.2. Atestados — corpo do Edital ausente
+### 2.3. Somatório no consórcio (item 111, p. 37)
 
-Não há, em nenhum dos documentos disponibilizados, dispositivo que:
-- defina as parcelas de maior relevância;
-- estabeleça quantitativos mínimos comprovados por CAT/CREA;
-- defina capacidade técnico-operacional vs. profissional;
-- regule somatório de atestados em consórcio;
-- discipline atestado de empresa do mesmo grupo econômico (controladora/controlada);
-- preveja subcontratação especialista para fim de qualificação técnica.
+> "No caso de consórcio, admitir-se-á, para efeito do item 110 a apresentação de atestado por um ou mais membros do consórcio, observadas as regras para o somatório de atestados prevista nos item 110 a)(iii) [vedação de somatório para atestado técnico-profissional de RSU] e b)(i) [somatório admitido para atestado de ativo de infraestrutura, com piso de 50%]."
 
-**Esses dispositivos estão no corpo do Edital — ausente.**
+### 2.4. Atestado de empresa do grupo econômico (itens 112 e 113, pp. 37–38)
 
-### 2.3. Único registro material com toque de qualificação técnica
+> "A experiência exigida no item 110 também poderá ser comprovada por meio de atestados emitidos em nome de **empresa controlada, controladora, coligada e/ou empresas sob CONTROLE SOCIETÁRIO comum** da LICITANTE VENCEDORA, direta ou indiretamente, desde que a situação [...] seja devidamente comprovada e vigore desde data anterior à da publicação do presente EDITAL."
 
-**Apêndice 4-B, Modelo A — Carta de Apresentação da Proposta Comercial (p. 4):**
-> "g) atendemos a todos os requisitos exigidos no EDITAL para a perfeita execução dos SERVIÇOS, **inclusive quanto aos critérios de habilitação**."
+→ Comprovação por organograma + documentos societários (item 113).
 
-> "c) tem pleno conhecimento do local e das condições de execução dos SERVIÇOS, bem como de execução das obras e investimentos necessários para o atendimento de todas as obrigações previstas no CONTRATO e para a prestação adequada dos SERVIÇOS, incluindo as metas e INDICADORES DE DESEMPENHO."
+### 2.5. Fundos de investimento (item 114, p. 38)
 
-(Declaração simbólica, sem parâmetros objetivos.)
+> "No caso de fundos de investimento, admitir-se-ão atestados emitidos em nome de fundos de investimento, ou de sociedades controladas por fundos de investimento, sob a mesma administradora que a LICITANTE VENCEDORA [...]"
+
+### 2.6. Fusão, cisão, incorporação (item 115, p. 38)
+
+Atestados decorrentes desses eventos exigem prova da transferência definitiva do acervo técnico.
+
+### 2.7. Visita técnica (itens 42 a 47, pp. 18–20)
+
+- **Facultativa**.
+- Item 43: prévio agendamento.
+- Item 47: quem renunciar deve apresentar declaração no Envelope 03 conforme Apêndice 3.
+
+### 2.8. CAT/CREA — não mencionado expressamente
+
+O Edital não cita CAT/CREA. As exigências do item 110 a) são genéricas ("atestado que demonstre experiência"), sem identificar o registro profissional específico.
+
+### 2.9. Subcontratação especialista
+
+O Edital **não prevê** subcontratação especialista para fins de qualificação técnica (não há cláusula tipo art. 67, § 5°, da Lei 14.133/21). A "carta de intenção" do item 110 a (iv)(c) é instrumento equivalente para vinculação prospectiva.
 
 ---
 
 ## 3. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA
 
-### 3.1. Capital social mínimo da SPE — após adjudicação
+### 3.1. Certidão de falência (item 120, pp. 39–40)
 
-**Apêndice 2 — Contrato, cláusula 8.3 (p. 9):**
-> "O capital social subscrito da CONCESSIONÁRIA deve ser de no mínimo R$ [•], tendo como referência a DATA BASE.
-> 8.3.1. Para fins de assinatura do presente CONTRATO, a CONCESSIONÁRIA integralizou o montante de no mínimo R$ [●] ([●])."
+> "A qualificação econômico-financeira [...] será demonstrada pela apresentação de certidão negativa de falência expedida pelo Distribuidor Judicial da Comarca (varas cíveis) da cidade onde a pessoa jurídica for sediada, acompanhada de documento que comprove a relação de distribuidores cíveis da cidade onde for sediada a LICITANTE, sendo que as pessoas jurídicas em recuperação judicial ou extrajudicial deverão apresentar o plano de recuperação já aprovado/homologado pelo juízo competente e em pleno vigor.
+> (i) Se a LICITANTE for fundo de investimento deverá comprovar que a administradora e o fundo não estão em processo de liquidação judicial ou extrajudicial [...]
+> (ii) Se a LICITANTE for entidade de previdência complementar, deverá apresentar declaração de que os planos e benefícios por ela administrados não se encontram sob liquidação ou intervenção da PREVIC [...]"
 
-### 3.2. Redução e aumento de capital
+### 3.2. Balanço patrimonial (item 121, p. 40)
 
-**Apêndice 2 — Contrato, cláusulas 8.4–8.6 (pp. 9–10):**
-- Redução até 20% sem anuência: desde que (i) investimentos dos primeiros 5 anos concluídos E (ii) atendimento à nota mínima dos INDICADORES DE DESEMPENHO no ano anterior.
-- Redução acima de 20%: anuência do Poder Concedente + demonstração de não-impacto na prestação.
-- Aumento de capital: a qualquer tempo, com notificação ao Poder Concedente em 30 dias.
-- Acionistas solidariamente responsáveis pelo capital não integralizado em caso de assunção do controle pelos financiadores (8.7).
+> "A LICITANTE VENCEDORA deverá apresentar balanço patrimonial, demonstração de resultado de exercício e demais demonstrações contábeis dos **2 (dois) últimos exercícios sociais**, apresentados na forma da lei, vedada a apresentação de balancetes ou balanços provisórios.
+> (i) Quando se tratar de empresa constituída no mesmo ano fiscal da LICITAÇÃO, deverá ser apresentado o balanço de abertura.
+> (ii) Caso a LICITANTE esteja inscrita no [SPED] [...]"
 
-### 3.3. Capital social mínimo da licitante (pré-adjudicação) — ausente
+### 3.3. Consórcio (item 122, p. 41)
 
-Sem o corpo do Edital, não há dispositivo sobre:
-- capital social mínimo da Licitante (pessoa jurídica que apresenta a proposta);
-- acréscimo de capital social mínimo no caso de consórcio;
-- exigência de balanço patrimonial e exercícios;
-- certidão negativa de falência/recuperação judicial;
-- somatório de capital entre consorciadas.
+> "Caso a LICITANTE VENCEDORA seja um consórcio, cada pessoa jurídica consorciada deverá apresentar individualmente todos os documentos de que trata esta Subseção."
+
+→ **Não há somatório** de balanço patrimonial entre consorciadas.
+
+### 3.4. Capital social mínimo da licitante — NÃO EXIGIDO
+
+O Edital **não exige** capital social mínimo da Licitante. O capital social mínimo (subscrito e integralizado) só recai sobre a **CONCESSIONÁRIA (SPE)**, na assinatura do contrato (item 171), no valor de R$ [•] subscrito e R$ [•] integralizado.
+
+### 3.5. Índices contábeis — NÃO EXIGIDOS
+
+Não há exigência dos índices clássicos (Liquidez Corrente, Liquidez Geral, Solvência Geral, Endividamento) prevista no art. 69 da Lei 14.133/21. O Edital se limita à exigência de balanço patrimonial e certidão de falência.
 
 ---
 
 ## 4. GARANTIA DE PROPOSTA
 
-### 4.1. Modalidades aceitas
+### 4.1. Valor
 
-**Apêndice 3, item 5 — Termos e Condições Mínimas do Seguro-Garantia (p. 10)**:
-- Seguro-garantia emitido por seguradora autorizada pela SUSEP (Item 4 do modelo).
-- Valor: "R$ [•], correspondente a [●]% ([●]) do valor estimado do CONTRATO" (item 5.1).
-- Prazo mínimo: 6 meses contados da DATA DE ENTREGA DOS ENVELOPES, renovável (item 6.1).
-- Pagamento em 30 dias a contar da documentação completa (item 7.1.ii).
+**Item 74 (p. 22):**
+> "A LICITANTE deverá apresentar, no ENVELOPE nº 01 a GARANTIA DE PROPOSTA no valor de **R$ [•], correspondente a 1% (um por cento) do VALOR ESTIMADO DO CONTRATO** [...]"
 
-**Apêndice 3, item 6 — Modelo de Fiança Bancária (p. 13)**:
-- Fiança bancária com renúncia aos benefícios dos arts. 827, 835, 836, 837, 838 e 839 do CC.
-- Cobertura: descumprimento das obrigações da licitação, incluindo recusa em assinar contrato e não atendimento de exigências.
-- Valor: R$ [●] (campo aberto).
-- Prazo: 6 meses a contar da DATA DE ENTREGA DAS PROPOSTAS.
-- Atendimento das requisições em 3 dias úteis.
+### 4.2. Modalidades (item 74, pp. 22–24)
 
-### 4.2. Valor — campo aberto
+> "a) caução em dinheiro [...];
+> b) caução em **títulos da dívida pública** [LTN, LFT, NTN-C, NTN-B ou NTN-F, registrados no SELIC];
+> c) **seguro-garantia** (cf. Circular SUSEP nº 662/2022);
+> d) **fiança bancária**; ou
+> e) **Títulos de capitalização**."
 
-**Apêndice 3, item 5.1**: "R$ [•], correspondente a [●]% ([●]) do valor estimado do CONTRATO".
-**Apêndice 3, item 6**: "R$ [●] ([●] reais)".
-**Apêndice 2 — Contrato, cláusula 7.1**: "O valor estimado deste CONTRATO é de R$ [•]". Sem valor estimado, não há referência para a garantia de proposta. **Cf. Agente 04, B.15.**
+### 4.3. Acréscimo em consórcio (item 84, p. 25)
 
-### 4.3. Acréscimo em consórcio
+> "Em caso de a LICITANTE ser consórcio, o valor da GARANTIA DE PROPOSTA previsto no item 74 deverá ser acrescido de **30% (trinta por cento)**, nos termos do artigo 15, §1º, da Lei Federal nº 14.133/21, perfazendo o total de R$ [•]."
 
-Não há dispositivo nos documentos disponibilizados. Está no corpo do Edital — ausente.
+### 4.4. Validade (item 83, p. 25)
+
+> "A GARANTIA DE PROPOSTA deverá ter validade de **180 (cento e oitenta) dias**, contados da DATA DE ENTREGA DOS ENVELOPES, cabendo à LICITANTE comprovar à COMISSÃO DE CONTRATAÇÃO a sua renovação, quando assim solicitado, sob pena de inabilitação."
+
+### 4.5. Execução / multa (item 87, pp. 25–26)
+
+Multa correspondente ao valor integral da garantia se a Licitante:
+- a) retirar a proposta no período de validade;
+- b) descumprir obrigações decorrentes da lei ou do Edital, incluindo recusa injustificada em assinar contrato (salvo força maior);
+- c) não atender exigências para assinatura;
+- d) praticar ato ilícito para frustrar o certame;
+- e) demonstrar não possuir idoneidade.
+
+### 4.6. Liberação (item 89, p. 26)
+
+A B3 libera a garantia em 10 dias úteis após (i) assinatura do contrato pela Concessionária ou (ii) publicação de revogação/anulação.
 
 ---
 
 ## 5. CRITÉRIO DE JULGAMENTO
 
-### 5.1. Variável de competição — Multiplicador K
+### 5.1. Tipo de licitação — Concorrência (item 10, p. 8)
 
-**Apêndice 4-B — Diretrizes para Elaboração da Proposta Comercial, item 1.2 (p. 2):**
-> "A PROPOSTA COMERCIAL será composta por Carta de Apresentação da PROPOSTA COMERCIAL (Modelo A), que conterá a oferta do Multiplicador K, com 4 (quatro) casas decimais, o qual deverá ser igual ou inferior a 1,0000 (um) e superior a 0,0000 (zero)."
+> "Esta LICITAÇÃO será processada e julgada pelo critério de **menor valor das TARIFAS**, obtido pela oferta do **Multiplicador K** a ser aplicado às TARIFAS base constantes do APÊNDICE 4-A deste EDITAL, conforme o **artigo 15, inciso I, da Lei Federal nº 8.987/95**."
 
-**Item 1.3:**
-> "O Multiplicador K será aplicado linearmente sobre o valor da TARIFA BASE prevista no APÊNDICE 4-A do EDITAL."
+→ **Concorrência** (modalidade da Lei 14.133/21 — art. 28, II — combinada com critério da Lei 8.987/95).
 
-### 5.2. Modelo A — Carta de Apresentação (Apêndice 4-B, p. 3)
+### 5.2. Multiplicador K (item 94, p. 27 + Apêndice 4-B, item 1.2)
 
-> "A presente proposta refere-se à contratação da CONCESSÃO para a prestação dos SERVIÇOS na ÁREA DA CONCESSÃO [...]
-> Para a execução do objeto do CONTRATO decorrente desta LICITAÇÃO, a presente LICITANTE vem, por meio desta, apresentar o Multiplicador K na ordem de [•] ([número por extenso e com quatro casas decimais]).
-> Multiplicador K | TARIFA BASE (RDO e equiparados)
-> [●]            | R$ [●]"
+> "A PROPOSTA COMERCIAL da LICITANTE deverá conter a oferta do Multiplicador K a ser aplicado sobre os valores das TARIFAS base constantes do APÊNDICE 4-A [...] com 4 (quatro) casas decimais, na forma do estabelecido no referido anexo ao EDITAL, o qual deverá ser igual ou inferior a 1,0000 (um) e superior a 0,0000 (zero)."
 
-### 5.3. Declarações vinculantes — Apêndice 4-B, p. 4
+### 5.3. Premissas obrigatórias para a Proposta Comercial (item 95, pp. 27–28)
 
-> "a) concorda integralmente com as condições da contratação estabelecidas no EDITAL, no CONTRATOS e seus ANEXOS;
-> b) foram considerados, no cálculo dos valores propostos [...], todos os encargos, tributos, custos e despesas necessários à execução da CONCESSÃO;
-> [...]
-> e) a TARIFA BASE aqui proposta possui viabilidade e é suficientes à recuperação dos custos incorridos [...] e à remuneração adequada aos encargos e riscos assumidos pela CONCESSIONÁRIA;
-> [...]
-> h) a PROPOSTA COMERCIAL compreende a integralidade dos custos para atendimento dos direitos trabalhistas [...]."
+a) atendimento integral às obrigações da Concessionária no Contrato;
+b) abrangência de TODOS os custos (tributos, trabalho, previdência, seguros, mobilização, etc.);
+c) **não considerar benefícios fiscais futuros**;
+d) não considerar vantagens não previstas no Edital;
+e) **considerar os valores a serem pagos a título de RESSARCIMENTO DOS ESTUDOS** (item 173);
+f) **considerar os valores a serem pagos à B3, a título de assessoria** (item 160 d);
+g) considerar que a Concessionária só recebe integral após o atingimento das metas;
+h) considerar valor mensal pago ao Regulador e ao Poder Concedente;
+i) considerar prazo de [•] anos da Concessão.
 
-### 5.4. Validade da proposta
+### 5.4. Validade da proposta (item 96, p. 28)
 
-**Apêndice 4-B, item 3 do Modelo A (p. 5):**
-> "O prazo de validade da presente proposta é de 180 (cento e oitenta) dias contados da DATA DE ENTREGA DOS ENVELOPES.
-> Esta PROPOSTA COMERCIAL é irrevogável, irretratável e incondicional."
+180 dias, contados da DATA DE ENTREGA DOS ENVELOPES, renovável a critério da Comissão.
 
-### 5.5. Critérios de desempate — Apêndice 3, item 7 (p. 15)
+### 5.5. Desclassificação (item 138, p. 45)
 
-Adesão aos critérios de desempate do art. 60, § 1°, da Lei 14.133/21:
-- Inciso I: empresas estabelecidas no território do Estado/DF.
-- Inciso II: empresas brasileiras.
-- Inciso III: empresas que invistam em P&D no País.
-- Inciso IV: empresas que comprovem prática de mitigação (Lei 12.187/2009).
+> a) em desacordo com o modelo do APÊNDICE 4-B;
+> b) com rasura, borrão, entrelinha ou linguagem que dificulte a compreensão;
+> c) com emendas, ressalvas ou omissões;
+> d) sob condição ou termo não previsto;
+> e) com vícios capazes de comprometer a validade.
 
-### 5.6. Tipo de licitação — silente no repositório
+→ **Não há critério objetivo de inexequibilidade do Multiplicador K** (ex.: K < 0,5000 ser desproporcional ao plano de negócios referencial). Há apenas o piso técnico K > 0,0000.
 
-Não há, em nenhum dos documentos juntados, dispositivo identificando o tipo de licitação (concorrência, RDC, modalidade da Lei 14.133/21, art. 28 e art. 6, XXXVIII–XLI). A capa do Anexo 1 indica "Concorrência pública nº [•]", o que sugere CONCORRÊNCIA (art. 28, II e art. 6, XXXVIII, da Lei 14.133/21). O corpo do Edital — ausente — provavelmente confirma o tipo e o critério de julgamento ("menor tarifa", "maior outorga", "menor multiplicador K").
+### 5.6. Critérios de desempate (item 137, pp. 44–45 + art. 60 § 1° da Lei 14.133/21)
 
-### 5.7. Desclassificação — silente
+Aplica-se o art. 60 da Lei 14.133/21, com preferências do § 1° (estabelecimento no Estado/DF, empresas brasileiras, P&D, prática de mitigação ambiental).
 
-Não há nos documentos juntados regras sobre desclassificação por proposta inexequível, por desvio de Multiplicador K, por descumprimento de critérios, etc. Corpo do Edital — ausente.
+### 5.7. Saneamento de falhas (item 145, p. 46)
+
+> "Eventuais falhas, omissões ou defeitos formais nos documentos apresentados pelas LICITANTES nos ENVELOPES poderão ser relevados ou sanados, a juízo da COMISSÃO DE CONTRATAÇÃO, mesmo que, para tanto, seja necessária a realização de diligência."
 
 ---
 
 ## 6. CONSÓRCIO
 
-### 6.1. Referências indiretas
+### 6.1. Constituição (item 123, p. 41)
 
-Apêndice 3 trata o "CONSÓRCIO" sem regular sua formação. Modelos 1, 2, 3, 4 etc. mencionam "LICITANTE - nome, sede, CNPJ/MF - individual ou qualquer empresa integrante do consórcio".
+Termo de Compromisso de Constituição de SPE, no Envelope 01, com:
+> a) denominação do consórcio;
+> b) objetivos restritos à licitação;
+> c) **porcentagem de participação** das consorciadas;
+> d) obrigação de manter a composição até a constituição da Concessionária;
+> e) indicação da **líder com poderes** para representação ativa/passiva, judicial e extrajudicial;
+> f) **declaração de responsabilidade solidária** das consorciadas **até a assinatura do contrato**;
+> g) compromisso de constituir a Concessionária.
 
-Não há dispositivo nos documentos disponibilizados sobre:
-- participação mínima da líder do consórcio;
-- acréscimos sobre habilitação e capital social mínimo em consórcio;
-- vedação a participação simultânea de mesma empresa em mais de um consórcio;
-- responsabilidade solidária expressa entre consorciadas;
-- Termo de Compromisso de Constituição de SPE pelas consorciadas.
+### 6.2. Participação societária na SPE (item 168, p. 50)
 
-Esses dispositivos estão tradicionalmente no corpo do Edital — **ausente**.
+> "Em caso de consórcio, a participação societária das consorciadas deverá ser **equivalente à participação das pessoas jurídicas no consórcio**, conforme o Termo de Compromisso de Constituição de Sociedade de Propósito Específico apresentado na LICITAÇÃO."
 
-### 6.2. Compromisso de Subsidiária Integral
+### 6.3. Consórcio só de estrangeiras (item 124, p. 41)
 
-**Apêndice 3, Modelo 11**: a LICITANTE compromete-se a constituir subsidiária integral (i.e., uma SPE com um único acionista). Sob essa redação, se a LICITANTE for um consórcio, é o consórcio que se obriga a constituir a SPE.
+> "Será aceita a participação de consórcio formado exclusivamente por sociedades e entidades estrangeiras autorizadas a funcionar no Brasil."
+
+### 6.4. Inabilitação por arrasto (item 125, p. 41)
+
+> "A inabilitação de qualquer consorciada acarretará, automaticamente, a inabilitação do consórcio."
+
+### 6.5. Vedação de alteração da composição (item 126, p. 42)
+
+> "Não será admitida a inclusão, a substituição, a retirada, a exclusão ou a alteração da participação de qualquer consorciada, desde a apresentação dos ENVELOPES até a assinatura do CONTRATO."
+
+### 6.6. Pisos de participação em consórcio
+
+- **20% mínimo** para a consorciada que apresentar atestado de capacidade técnica empresarial (item 110 b ix).
+- **10% mínimo** para a consorciada/acionista considerada "responsável" pelo ativo de infraestrutura (item 110 b iv).
+
+### 6.7. **Não há piso mínimo para a líder**
+
+O Edital não exige percentual mínimo para a líder do consórcio. Apenas indica que a líder representa as consorciadas (item 123 e).
 
 ---
 
 ## 7. PROCEDIMENTO
 
-### 7.1. Cronograma referencial — silente
+### 7.1. Cronograma referencial (item 127, pp. 42–43)
 
-Não há, nos documentos juntados, cronograma referencial das fases da licitação (consulta pública, audiência pública, publicação do edital, prazo para esclarecimentos, prazo para impugnação, DATA DE ENTREGA DOS ENVELOPES, julgamento, recursos, adjudicação, homologação).
+Cronograma com 14 eventos, todos com data `[•]`. Sessão pública na B3 em São Paulo. Eventos numerados de 1 (publicação) a 14 (julgamento de recursos).
 
-### 7.2. Envelopes
+### 7.2. Três envelopes (item 70, pp. 21–22)
 
-A redação dos modelos do Apêndice 3 fala em "DATA DE ENTREGA DOS ENVELOPES" e "DATA DE ENTREGA DAS PROPOSTAS" — provavelmente sistema clássico de **envelopes 1 e 2** (proposta + habilitação) ou inversão habilitação/proposta. Sem o Edital, não há clareza.
+- **Envelope 1**: Garantia de Proposta + Documentos de Representação + Termo de Compromisso de Constituição de SPE (se consórcio).
+- **Envelope 2**: Proposta Comercial.
+- **Envelope 3**: Documentos de Habilitação (entregue só pela vencedora — item 141).
 
-### 7.3. Manual B3
+### 7.3. **Inversão de fases — Habilitação só da vencedora (item 141, p. 45)**
 
-O Apêndice 5 (Manual de Procedimentos da B3) está apenas como capa. **Sugere que a licitação será realizada via plataforma eletrônica da B3** — possivelmente disputa fechada em ambiente eletrônico para leilão de Multiplicador K. Sem o Manual, não há detalhe sobre o procedimento eletrônico.
+> "Na data prevista no cronograma constante do item 127, será recebido o ENVELOPE nº 03 da LICITANTE VENCEDORA, a fim de verificar o cumprimento das exigências de habilitação contidas neste EDITAL."
 
-### 7.4. Esclarecimentos
+→ Apenas a vencedora apresenta habilitação. Modelo de inversão da Lei 14.133/21 (art. 17, § 1°).
 
-**Apêndice 3, Modelo 1**: padrão para solicitação de esclarecimentos. O Apêndice 6 (Resposta para as Solicitações de Esclarecimentos) está apenas como capa — sem conteúdo de Q&A entre Consórcio e licitantes (etapa ainda não realizada).
+### 7.4. Sessão pública na B3 (itens 4, 7, 70, 72)
 
-### 7.5. Comissão de Contratação
+A sessão pública ocorre **na sede da B3**, em São Paulo. O Edital é silente quanto à possibilidade de sessão eletrônica.
 
-A Carta de Apresentação (Apêndice 4-B, p. 3) é dirigida "À COMISSÃO DE CONTRATAÇÃO" — terminologia da Lei 14.133/21 (art. 6, L, e art. 8). Confirma o regime da Lei 14.133/21.
+### 7.5. Esclarecimentos e impugnações (itens 18 a 27, pp. 9–10)
 
-### 7.6. Foro de eventuais litígios sobre a licitação
+- Esclarecimentos: até a data do cronograma (item 127).
+- Impugnações: art. 164 da Lei 14.133/21.
+- Alterações ao Edital: reabertura do prazo se modificarem condições (art. 55 § 1° da Lei 14.133/21).
 
-**Apêndice 7 — Convênio (cláusula 17.1):** foro de Porto Alegre.
-**Doc. de Suporte — Contrato de Programa (cláusula 13.3):** foro de São Leopoldo.
-**Apêndice 2 — Contrato (cláusula 46):** mecanismo de solução de controvérsias (negociação → mediação → comitê técnico → arbitragem CCBC); foro residual não identificado no trecho extraído.
+### 7.6. Recursos (itens 147 a 153, pp. 46–47)
 
-### 7.7. Saneamento de falhas
+**Fase recursal única**, após publicação do resultado provisório:
+- Intenção de recorrer: 1 dia útil sob pena de preclusão.
+- Razões: 3 dias úteis.
+- Contrarrazões: 3 dias úteis.
+- Reconsideração ou subida: 3 dias úteis.
+- Decisão da autoridade superior: até 10 dias úteis.
 
-Não há dispositivo expresso nos documentos juntados sobre saneamento de falhas durante a fase de habilitação (art. 64 da Lei 14.133/21).
+### 7.7. Prazo para assinatura do contrato (item 158, p. 48)
+
+> "Adjudicado o objeto da LICITAÇÃO, a ADJUDICATÁRIA será convocada para, no prazo de até **60 (sessenta) dias**, celebrar, por meio da CONCESSIONÁRIA constituída, o CONTRATO com o PODER CONCEDENTE, sob pena de decair de seu direito à contratação, sem prejuízo da aplicação das penalidades previstas no artigo 90, § 5º da Lei Federal nº 14.133/21 e da execução da GARANTIA DE PROPOSTA."
+
+Prorrogável uma vez, por igual período (item 159).
+
+### 7.8. Condições para assinatura (item 160, p. 48)
+
+a) Constituição da Concessionária + CNPJ;
+b) Garantia de Execução do Contrato (item 172);
+c) Integralização de **R$ [•]** em moeda corrente;
+d) Pagamento à B3 de **R$ [•]** (atualizável por IPCA desde [•]);
+e) **Ressarcimento dos Estudos** (item 173);
+f) Contratação do(s) profissional(is) detentor(es) dos atestados do item 110 a).
+
+### 7.9. Constituição da SPE (itens 165 a 171, pp. 49–50)
+
+- Forma jurídica: **sociedade anônima** (item 169).
+- Objeto único: execução dos SERVIÇOS + atividades correlatas + RECEITAS EXTRAORDINÁRIAS.
+- Sede: em um dos Municípios da concessão.
+- Capital social subscrito mínimo: **R$ [•]**; integralizado: **R$ [•]** em moeda corrente, na data-base [•], corrigido por IPCA.
+- Duração: equivalente ao prazo da Concessão.
+
+### 7.10. Ressarcimento dos estudos (item 173, pp. 51–52)
+
+- **BID**: USD 850.000,00 (oitocentos e cinquenta mil dólares), convertidos pela PTAX de venda do dia útil anterior.
+- **FEP-CAIXA**: 3 componentes:
+  - (i) R$ [•], atualizados pela Selic;
+  - (ii) [•]% incidente sobre o valor (i), a título de remuneração do Fundo;
+  - (iii) R$ [•] adicional para manutenção do Fundo, atualizado pela Selic.
+
+### 7.11. Saneamento de falhas (item 145, p. 46)
+
+Permitido a juízo da Comissão, mesmo com diligência (art. 64 da Lei 14.133/21).
+
+### 7.12. Foro/contagem de prazos (itens 176 a 177, p. 52)
+
+> "Só se iniciam e vencem os prazos nos dias de expediente no **Município de São Leopoldo - RS**."
+
+### 7.13. Princípios do Equador (item 178, pp. 52–53)
+
+> "Caso a CONCESSIONÁRIA busque financiamento a longo prazo de instituição financeira signatária dos Princípios do Equador para a CONCESSÃO, deverá observar as diretrizes [...]"
 
 ---
 
-## 8. NORMAS APLICÁVEIS À LICITAÇÃO
+## 8. APÊNDICES DO EDITAL (item 9, p. 7)
 
-**Apêndice 2 — Contrato, cláusula 1.1 (pp. 4–5):** lista de leis que regem o Contrato (e, supletivamente, a Licitação):
-- Constituição Federal;
-- Lei 8.987/95 (Concessões);
-- Lei 9.074/95 (Outorgas);
-- **Lei 14.133/21** (Licitações);
-- Lei 11.445/07 (Saneamento Básico);
-- Lei 12.305/10 (PNRS);
-- Decreto 7.217/10 (Saneamento);
-- Decreto 10.936/22 (Logística reversa);
-- Leis Municipais nºs [•] (15 ocorrências, todas com campos abertos);
-- Normas de referência da ANA e do REGULADOR.
-
-**Lacuna**: a indicação das leis municipais de cada município com campos `[•]` impede a constatação prévia da autorização específica de cada Município à Concessão (art. 175 da CF; art. 17, II, "a", da Lei 14.133/21).
+> a) APÊNDICE 1 – DEFINIÇÕES DO EDITAL E CONTRATO (**não consta do repositório**)
+> b) APÊNDICE 2 – MINUTA DO CONTRATO (114 páginas — presente)
+> c) APÊNDICE 3 – MODELO DE CARTAS E DECLARAÇÕES (26 páginas — presente)
+> d) APÊNDICE 4-A – ESTRUTURA TARIFÁRIA DA CONCESSÃO (3 páginas — presente)
+> e) APÊNDICE 4-B – DIRETRIZES PARA ELABORAÇÃO DA PROPOSTA COMERCIAL (5 páginas — presente)
+> f) APÊNDICE 5 – MANUAL DE PROCEDIMENTOS DA B3 (**capa apenas**)
+> g) APÊNDICE 6 – RESPOSTA PARA AS SOLICITAÇÕES DE ESCLARECIMENTOS (**capa apenas; etapa futura**)
+> h) APÊNDICE 7 – MINUTA DE CONVÊNIO DE COMPARTILHAMENTO DE DADOS (15 páginas — presente)
 
 ---
 
-## ANEXO — DISPOSITIVOS QUE SERIAM CENTRAIS MAS NÃO CONSTAM
+## 9. CAMPOS [•] NO EDITAL — INVENTÁRIO CRÍTICO
 
-(Para uso na Fase 2: a inexistência destes itens é, por si só, achado material.)
+### 9.1. Campos críticos para análise prévia pelos licitantes (atrapalham a competitividade)
 
-1. **Habilitação jurídica de fundo de investimento, previdência complementar, instituição financeira**: ausente.
-2. **Capacidade técnico-operacional — parcelas de maior relevância, quantitativos mínimos**: ausente. Sem isso, não há como aferir a proporcionalidade frente à Súmula 263/TCU ("É admissível a exigência [...] desde que limitada às parcelas de maior relevância").
-3. **Capital social mínimo da licitante — pré-adjudicação**: ausente.
-4. **Balanço patrimonial e exercícios**: ausente.
-5. **Certidão negativa de falência/recuperação judicial**: ausente.
-6. **Garantia de proposta — percentual e valor absoluto consolidados**: ausente; valores em `[•]`.
-7. **Tipo de licitação (concorrência), critério de julgamento (menor Multiplicador K?), inversão de fases, regime eletrônico (B3?)**: dedutível, não declarado.
-8. **Regras de consórcio (líder, acréscimo, vedação simultânea, solidariedade)**: ausente.
-9. **Procedimento de habilitação — diligência, saneamento de falhas, recurso, lance**: ausente.
-10. **Cronograma referencial**: ausente.
-11. **Manual B3 — procedimento eletrônico**: capa apenas.
-12. **Esclarecimentos — Q&A**: capa apenas.
-13. **Critérios de desempate além dos do art. 60, § 1° (sorteio, hierarquia interna)**: ausente.
-14. **Subcontratação especialista para qualificação técnica (art. 67, § 5° da Lei 14.133/21)**: ausente.
-15. **CAT/CREA — exigência específica para serviço de manejo de RDO**: ausente.
-16. **Atestado de empresa do grupo econômico (controladora/controlada)**: ausente.
+| Item | Campo |
+|---|---|
+| 3, 22, 23, 127 | datas das audiências, consulta pública, esclarecimentos, impugnações, entrega de envelopes, sessão pública, divulgação |
+| 4 | endereço da B3 em SP, horários |
+| 5 | endereço eletrônico (site do Edital, TCE-RS, PNCP) |
+| 6 | jornais de publicação |
+| 8 j a x | 15 Leis Municipais [•]/[•] (uma por município) |
+| 74, 84 | valor da Garantia de Proposta (1% × VALOR ESTIMADO = R$ [•]); com consórcio R$ [•] |
+| 95 i | prazo `[•]` anos da Concessão (já fixado em 30 anos no item 12, mas item 95 i o repete em campo aberto) |
+| 110 a (i) | quantitativo mínimo `[●]` t/dia (coleta e transporte) |
+| 110 a (ii) | quantitativo mínimo `[●]` t/dia (tratamento/disposição) |
+| 110 b | receita operacional anual mínima `R$ [●]` (atestado de gestão) |
+| 110 b (i) | metade da receita exigida — `R$ [●]` |
+| 160 c | valor `R$ [•]` integralizado na assinatura |
+| 160 d | valor `R$ [•]` à B3 |
+| 171 | capital social subscrito e integralizado da SPE — `R$ [•]` |
+| 173 a | (BID em USD — definido em 850.000) |
+| 173 b (i), (ii), (iii) | valores R$ [•] e percentual `[•]%` (FEP-CAIXA) |
+| Item da agência reguladora (refletido no Convênio Apêndice 7) | `[•]` |
+
+### 9.2. Campos que são legitimamente preenchidos depois (após publicação)
+
+- Nº da concorrência e do processo;
+- Local, data e horário das sessões.
 
 ---
 
-**Fim do 02a (Fase 1 — Extração).** Próximo passo: rodar a Fase 2 (`siga agentes/02_licitacao.md fase 2`).
+## 10. DEDUÇÕES MATERIAIS RELEVANTES (para a Fase 2)
+
+1. **Critério de julgamento**: menor Multiplicador K, com piso técnico K > 0,0000 e teto K ≤ 1,0000. **Sem critério de inexequibilidade objetiva** (problema material).
+2. **Inversão de fases**: habilitação só da vencedora — modelo do art. 17, § 1°, da Lei 14.133/21.
+3. **Procedimento na B3**: sessão pública presencial em São Paulo. **Sem regime eletrônico expresso**, embora o Apêndice 5 (Manual B3) provavelmente discipline a operacionalização eletrônica.
+4. **Qualificação técnica empresarial extremamente abrangente** (item 110 b v): ativo de infraestrutura considera saneamento, comunicações, logística, energia, serviços públicos, infraestrutura social (escolas, hospitais, prisões) — abre o campo para licitantes com experiência **fora de RSU**. Ponto a confrontar com a Súmula 263/TCU (parcelas de maior relevância) e com a especificidade de RSU.
+5. **Atestado intragrupo** (item 112): admitido para controladora, controlada, coligada e sob controle comum. Esse dispositivo é mais amplo do que a jurisprudência consolidada do TCU sobre atestado de grupo econômico.
+6. **Atestado técnico-profissional** (item 110 a): aqui há especificidade — coleta+transporte de RSU + unidade de tratamento/disposição. Sem somatório (item 110 a iii). Sem CAT/CREA específico.
+7. **Garantia de Proposta de 1%**: bem abaixo do teto legal (5% do valor estimado, art. 96 § 1° da Lei 14.133/21). Pró-competitividade.
+8. **Capital social mínimo da SPE** (item 171): definido só na assinatura, em campo aberto.
+9. **Ressarcimento de estudos**: BID USD 850.000,00 + FEP-CAIXA (atualizada por Selic). Conhecido o BID, desconhecidos os valores e percentuais do FEP — campo aberto no item 173 b.
+10. **Cronograma referencial todo em [•]**: impede planejamento prévio.
+11. **15 Leis Municipais em [•]**: nenhum município identificado pela lei autorizativa. Vício formal grave: art. 175 CF + art. 17 II "a" da Lei 14.133/21 exige autorização específica.
+12. **Apêndice 1 (Definições) e Apêndice 5 (Manual B3)** continuam ausentes — Apêndice 1 é citado no item 9 a) do Edital.
+
+---
+
+**Fim do 02a revisado (Fase 1 — Extração).** Próximo passo: rodar a Fase 2 (`siga agentes/02_licitacao.md fase 2`).
