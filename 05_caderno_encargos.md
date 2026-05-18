@@ -2,6 +2,11 @@
 
 > Agente 05 — análise técnica do escopo operacional, investimentos, metas, penalidades e licenciamento.
 > Postura crítica: cada item abaixo é confrontado com o que o documento promete e com o que efetivamente vincula a Concessionária.
+>
+> **Observação após inclusão do Edital propriamente**: o `Edital-Pro-Sinos-Concessao-RDO.pdf` (53 páginas) foi incluído ao repositório após esta análise. Os achados sobre escopo, rota tecnológica, metas e penalidades operacionais permanecem válidos — todos vêm do Caderno de Encargos (Anexo 3), do Sistema de Mensuração de Desempenho (Anexo 4) e do Contrato (Apêndice 2). O Edital, no entanto, confirma:
+> - **Item 12 do Edital**: prazo de 30 anos (alinhado com a análise);
+> - **Item 13 do Edital**: objeto inclui "manejo de RESÍDUOS DOMÉSTICOS, incluindo a coleta, o transbordo, o transporte, tratamento e a destinação e disposição finais ambientalmente adequadas" — restringe ao RDO, alinhado com o Caderno;
+> - **Item 178 do Edital**: Princípios do Equador são facultativos para financiamento, mas o Caderno 1.2.24 os impõe — **inconsistência registrada no Agente 04, D.9**.
 
 ---
 

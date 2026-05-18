@@ -1,6 +1,12 @@
 # 03a — GESTÃO COMERCIAL E RISCOS · EXTRAÇÃO (Fase 1)
 
 > Agente 03 — Fase 1: extração pura. Sem análise.
+>
+> **Observação após inclusão do Edital propriamente**: o `Edital-Pro-Sinos-Concessao-RDO.pdf` (53 páginas) foi incluído ao repositório após esta extração. As regras materiais sobre gestão comercial, inadimplência, Matriz de Riscos e Convênio de Compartilhamento permanecem no Contrato (Apêndice 2), no Anexo 5 (Matriz) e no Apêndice 7 (Convênio) — fontes já analisadas neste 03a. O Edital, no entanto, traz dispositivos pertinentes que reforçam algumas teses:
+> - **Item 173 a do Edital**: ressarcimento BID em USD 850.000,00, pela PTAX do dia útil **anterior ao pagamento** — exposição cambial integral à Concessionária por até 60 dias (item 158).
+> - **Item 95 b do Edital**: "todos os custos referentes ao cumprimento do objeto" — pode ser invocado pela Administração contra pleitos de reequilíbrio.
+> - **Item 8 y do Edital**: sujeita o certame às normas da ANA — reforça aplicação da NR 1/2021 e da NR 13/2025 (cofaturamento e ressarcimento ao prestador de água).
+> - **Item 3 do Edital**: licitação precedida de **audiência pública** e **consulta pública** (datas em `[•]`) — fortalece defesa de motivação do Poder Concedente.
 
 ---
 
