@@ -1,10 +1,10 @@
 # 01a — CONCESSÃO · EXTRAÇÃO (Fase 1)
 
 > Agente 01 — extração pura dos dispositivos. Sem análise.
-> Edital: Concessão de Serviço Público de Manejo de RDO da Bacia dos Sinos (RS), Consórcio Pró-Sinos. Concorrência nº [•] / Processo nº [•].
-> Municípios: Araricá, Cachoeirinha, Campo Bom, Capela de Santana, Esteio, Glorinha, Igrejinha, Nova Hartz, Nova Santa Rita, Parobé, Portão, Riozinho, Rolante, São Francisco de Paula, Sapucaia do Sul (15 municípios; a Resolução Tarifária só lista 15; o Estatuto cita 16 — divergência registrada).
+> Edital: Concessão de Serviço Público de Manejo de RDO da Bacia dos Sinos (RS), Consórcio Pró-Sinos (CNPJ 09.150.005/0001-75, sede em São Leopoldo/RS). Concorrência nº [•] / Processo nº [•].
+> Municípios: Araricá, Cachoeirinha, Campo Bom, Capela de Santana, Esteio, Glorinha, Igrejinha, Nova Hartz, Nova Santa Rita, Parobé, Portão, Riozinho, Rolante, São Francisco de Paula, Sapucaia do Sul (15 municípios na concessão; o Estatuto Consorcial cita 26 municípios consorciados — apenas 15 ratificaram o Primeiro Termo Aditivo).
 
-> **Observação de escopo dos PDFs.** Anexo 1 (Edital e Apêndices), Anexo 2 (Proposta Comercial), Apêndice 5 (Manual B3) e Apêndice 6 (Esclarecimentos) estão presentes APENAS como capas — o corpo do Edital, do Apêndice 1 (Definições), do Manual B3 e dos Esclarecimentos NÃO consta no repositório, sendo este o principal limite material desta extração.
+> **Observação de escopo dos PDFs (revisada).** O corpo do Edital foi posteriormente incluído no repositório (`Edital-Pro-Sinos-Concessao-RDO.pdf`, 53 páginas, 180 itens) e refletido na Fase 1 do Agente 02. **Permanecem ausentes** o Apêndice 1 (Definições do Edital e Contrato) e o Apêndice 5 (Manual B3). O Apêndice 6 (Esclarecimentos) é etapa futura. O Anexo 2 (Proposta Comercial e Estrutura Tarifária da Vencedora) só será preenchido após adjudicação.
 
 ---
 
@@ -387,6 +387,8 @@ A definição da Entidade Reguladora aparece como campo `[•]` em todos os docu
 - **Contrato (Apêndice 2), cláusula 1.1.24** (p. 5):
   > "Normas de referência editadas pela Agência Nacional de Águas e Saneamento Básico – ANA e normas regulamentadoras do REGULADOR."
 
+- **Edital, item 8 y (p. 7)** (idêntico): "Normas de referência editadas pela Agência Nacional de Águas e Saneamento Básico – ANA e normas regulamentadoras do REGULADOR." — o Edital expressamente sujeita a licitação à NR 1/2021 e NR 13/2025 da ANA.
+
 ### 7.2. Convênio de delegação — previsão de existência mas não juntado
 
 **Contrato de Programa, cláusulas 3.3.1 e 3.3.2** (p. 7):
@@ -426,10 +428,13 @@ O Edital se aplica em municípios do RS (Bacia dos Sinos). Foro do Convênio: Co
 
 ### 8.1. Prazo total
 
+**Edital, item 12 (p. 8):**
+> "Constitui objeto da presente LICITAÇÃO a seleção de LICITANTE com vistas à outorga da CONCESSÃO para a prestação dos SERVIÇOS, **durante o prazo de 30 (trinta) anos**, em caráter de exclusividade [...]"
+
 **Contrato, cláusula 6.1** (p. 8):
 > "6.1. A CONCESSÃO terá o prazo de [30 (trinta) anos], contados a partir da DATA DE INÍCIO DA OPERAÇÃO COMERCIAL, podendo ser prorrogado (i) para fins recomposição do equilíbrio econômico-financeiro ou (ii) de acordo com a legislação aplicável, mediante a celebração de termo aditivo."
 
-(Observação literal: o número "30 (trinta) anos" está entre colchetes, indicando que o valor ainda não foi consolidado na minuta.)
+(Observação literal: o número "30 (trinta) anos" está entre colchetes na minuta do Contrato. O Edital fixa o prazo em 30 anos no item 12, mas o **item 95 i do Edital repete o prazo como "[•] ([•]) anos"** — inconsistência interna. Defeito catalogado no Agente 04, H.8.)
 
 ### 8.2. Fases — Contrato (cláusula 11) e Caderno de Encargos (item 1.4)
 
