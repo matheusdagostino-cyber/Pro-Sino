@@ -1,9 +1,9 @@
 # 04 — ERROS E INCONSISTÊNCIAS
 
-> Agente 04 — varredura técnica integral, sem pesquisa jurisprudencial.
+> Agente 04 — varredura técnica integral, sem pesquisa jurisprudencial. **Versão revisada com o Edital propriamente** (`Edital-Pro-Sinos-Concessao-RDO.pdf`, 53 páginas, 180 itens).
 > Postura crítica e combativa: cada achado abaixo é um defeito documental que compromete a segurança jurídica da licitação, a precificação da proposta ou a execução do contrato.
 
-> **Observação preliminar de escopo**: o Anexo 1 (corpo do Edital), o Apêndice 1 (Definições do Edital e Contrato), o Manual B3 (Apêndice 5) e os Esclarecimentos (Apêndice 6) constam no repositório APENAS como folhas de rosto (capas). Sem o corpo do Edital e sem o Apêndice de Definições, parte expressiva dos defeitos relatados abaixo só pode ser examinada parcialmente — e a própria ausência desses documentos é o defeito mais grave de todos.
+> **Observação preliminar de escopo**: o **Apêndice 1 — Definições do Edital e do Contrato** continua ausente do repositório (citado no item 9 a do Edital como o primeiro Apêndice, com força vinculante). O **Apêndice 5 — Manual de Procedimentos da B3** consta apenas como capa (1 página). O Apêndice 6 (Esclarecimentos) está como capa porque a etapa ainda não foi realizada (item 21 do Edital). As versões anteriores deste relatório (commits anteriores) registravam o próprio Edital como ausente; este achado foi sanado com o upload do PDF, mas o Apêndice 1 (Definições) — que define os termos em maiúsculas usados em todos os documentos — permanece materialmente faltante.
 
 ---
 
@@ -458,7 +458,7 @@ Em condomínios e edificações com múltiplas economias e único hidrômetro, q
 
 ### F.11. [MÉDIO] Direitos e deveres dos USUÁRIOS — referência genérica
 
-Cláusula 26 do Contrato refere "Direitos e Deveres dos Usuários" — sem texto detalhado no Contrato. O Caderno de Encargos (item 2.6) trata do "Manual de Prestação do Serviço e de Atendimento ao USUÁRIO" mas em diretrizes gerais. Sem o corpo do Edital, lacuna.
+Cláusula 26 do Contrato refere "Direitos e Deveres dos Usuários" — sem texto detalhado no Contrato. O Caderno de Encargos (item 2.6) trata do "Manual de Prestação do Serviço e de Atendimento ao USUÁRIO" mas em diretrizes gerais. O Edital também é silente sobre o detalhamento, dependendo do Apêndice 1 (ausente).
 
 ### F.12. [MÉDIO] Custo das auditorias do Regulador
 
@@ -484,30 +484,200 @@ A definição material do REGULADOR é o item mais grave. Sem ele:
 
 ---
 
-## H. RANKING CONSOLIDADO DOS DEFEITOS (do mais grave ao menos)
+## H. DEFEITOS PRÓPRIOS DO EDITAL (53 PÁGINAS)
 
-1. **D.1** — Fórmula tarifária incompatível entre Apêndice 4-A e Resolução do Consórcio. **Risco de impugnação certo.**
-2. **F.2 / G** — REGULADOR não identificado em nenhum documento.
-3. **F.1** — Lista material de BENS REVERSÍVEIS não consta (Apêndice 1 ausente).
-4. **D.4 / F.3** — Convênio omisso sobre contraprestação ao Prestador de Água.
-5. **A.7 / B.1 / E.2** — Erros "Error! Reference source not found." na Matriz de Riscos truncam o sentido de itens críticos (inadimplência).
-6. **A.1 / A.2 / A.3 / A.4** — Quatro referências cruzadas a Anexos errados em cláusulas-chave (30.8, 8.4.2, 23.4, 19.8/9.9).
-7. **A.5** — Numeração quebrada de 20.13–20.19 (FI).
-8. **D.2 / E.1** — Vedação de aterro em 1.1.4 do Caderno entra em choque com 3.6.3 e Tabela 1.
-9. **D.5** — Conta Verde sem destinação no Contrato de Concessão (só no Contrato de Programa).
-10. **D.8** — Risco de Residencial Social >15% só reequilibra após primeira Revisão Ordinária — transfere risco à Concessionária por 4 anos.
-11. **D.9** — Conflito Caderno (subprodutos como obrigação técnica + estimativa de energia) x Contrato (receitas extraordinárias aleatórias).
-12. **B.7** — "Água" vs. "Água e Esgoto" entre Apêndice 7 e Anexo 7.
-13. **D.3** — Lista de municípios — 15 na concessão, 26 no Estatuto consorcial.
-14. **B.1** — Inciso IX faltante e dois X na Resolução Tarifária (art. 5).
-15. **D.6** — Pagamento à Conta Específica do PC no início da FASE 1 sem fonte de receita.
-16. **F.4** — Procedimento do FI truncado.
-17. **D.10** — Três órgãos de governança paralelos sem hierarquia clara.
-18. **B.6 / D.9** — "Receita Acessória" x "Receita Extraordinária" — mesmo conceito, dois nomes.
-19. **B.4** — "Ordem de Execução" vs. "Ordem de Serviço".
-20. **B.3 / B.5 / B.8 / B.9** — Inconsistências terminológicas menores ("FASE 1 – PRÉ-OPERACIONAL", "ROB" vs. "RBO", "SMRSU" vs. "SMRDO").
-21. **D.7 / D.11 / D.12 / D.13 / E.3 / E.4 / F.5–F.13** — defeitos médios/leves remanescentes.
+> Esta seção foi acrescentada à versão revisada do Agente 04 com base na inclusão do `Edital-Pro-Sinos-Concessao-RDO.pdf`. Os defeitos abaixo são **internos ao Edital** ou **na sua relação com os Apêndices e Anexos**.
+
+### H.1. [GRAVE] Cabeçalhos do Edital usam "RSU" enquanto o objeto é "RDO"
+
+- Edital, item 12 (p. 8): "objeto da presente LICITAÇÃO a seleção de LICITANTE com vistas à outorga da CONCESSÃO para a prestação dos SERVIÇOS [...] na ÁREA DA CONCESSÃO" — sem usar "RSU".
+- Edital, item 13 (p. 8): "manejo de **RESÍDUOS DOMÉSTICOS**, incluindo a coleta, o transbordo, o transporte, tratamento e a destinação e disposição finais ambientalmente adequadas" — RDO.
+- **MAS** todos os cabeçalhos das páginas 8 a 53 do Edital trazem "Concessão de Serviço Público de Manejo de **RSU** da Bacia dos Sinos (RS)" — mesma inconsistência que afeta a Resolução do Consórcio (cf. B.8 e B.9).
+
+**Defeito**: o cabeçalho institucional do Edital descreve o objeto como **RSU** (Resíduos Sólidos Urbanos = abrange RLU, RCC, hospitalar etc.), enquanto o item 12 e o item 13 — e todo o Contrato e Resolução — restringem o escopo a **RDO** (Resíduos Domésticos). Essa diferença não é semântica: RSU é gênero, RDO é espécie. O cabeçalho amplia indevidamente a percepção do objeto da concessão para os licitantes e para o público leitor do Edital.
+
+**Correção**: substituir "RSU" por "RDO" em todos os cabeçalhos.
+
+### H.2. [GRAVE] Cronograma referencial integralmente em [•] (item 127)
+
+Todas as 14 datas do cronograma (publicação, esclarecimentos, impugnações, entrega de envelopes, sessão pública, resultado, recursos, julgamento) estão como `[•]`. Sem cronograma, é impossível para o licitante planejar mobilização, viagem para São Paulo (sede da B3), preparação de documentação, etc. **Cf. art. 25, § 3°, da Lei 14.133/21** — o cronograma é elemento essencial.
+
+### H.3. [GRAVE] 15 Leis Municipais ausentes (item 8 j a x)
+
+Cada um dos 15 Municípios é identificado apenas como "Lei Municipal de nº [•]/[•], de [Município]". Não há indicação da lei autorizativa específica de cada Município. **Cf. art. 175 CF (autorização legal específica para concessões) + art. 17 II "a" da Lei 14.133/21** (lei autorizativa é pressuposto). Sem identificação das leis, não há controle de que cada Município efetivamente ratificou o Primeiro Termo Aditivo ao Contrato de Consórcio (cf. Estatuto considerando "h"). Cf. F.13 do agente 04 e D.3.
+
+### H.4. [GRAVE] Endereço da B3 em [•] (item 4)
+
+> "Os ENVELOPES 1 e 2 [...] deverão ser entregues diretamente na sede da B3, na [•], Município de São Paulo [...]"
+
+Falta o endereço completo. Considerando que a entrega é presencial (não eletrônica), e que a B3 tem múltiplos endereços corporativos em São Paulo, a omissão impede o licitante de planejar logística. **Cf. art. 25, § 3°, II, da Lei 14.133/21**.
+
+### H.5. [GRAVE] Quantitativos mínimos do item 110 a) i e ii em [●]
+
+> "Operação de coleta e transporte de resíduos sólidos, com capacidade mínima de **[●] ([●]) toneladas/dia**" (item 110 a i)
+> "Operação de unidade(s) de tratamento ou de disposição final ambientalmente adequada de resíduos sólidos urbanos com capacidade mínima de **[●] ([●]) toneladas/dia**" (item 110 a ii)
+
+Sem o quantitativo mínimo, **não há habilitação técnica objetivamente aferível**. Cf. **Súmula 263 do TCU** ("É admissível a exigência [...] desde que limitada às parcelas de maior relevância e valor significativo do objeto"). Aqui não há nem o quantitativo, nem a parcela. Defeito que macula a definição do nível de exigência exigida do licitante.
+
+### H.6. [GRAVE] Receita operacional anual mínima do item 110 b em [●]
+
+Mesma situação: o atestado de empresa exige "receita operacional anual de, no mínimo, R$ [●]" — sem o valor, a exigência é incalculável. Idem para a "metade do valor" do item 110 b (i) ("R$ [●], correspondente à 50% (cinquenta por cento) do valor total da experiência exigida").
+
+### H.7. [GRAVE] Garantia de Proposta — valor absoluto em [•]
+
+Item 74: "GARANTIA DE PROPOSTA no valor de **R$ [•]**, correspondente a 1% (um por cento) do VALOR ESTIMADO DO CONTRATO". O VALOR ESTIMADO está em `[•]` no Contrato (cl. 7.1). Sem valor absoluto, a garantia é indeterminada.
+
+### H.8. [GRAVE] Item 95 i — prazo da concessão em [•]
+
+> "deverá ser considerado o prazo de **[•] ([•]) anos** para a vigência da CONCESSÃO [...]"
+
+O item 12 do mesmo Edital fixa o prazo em **30 (trinta) anos** ("durante o prazo de 30 (trinta) anos"). O item 95 i deveria fechar o prazo, mas o repete em campo aberto. **Inconsistência interna do Edital.** Soma-se ao defeito do Contrato cl. 6.1 ("[30 (trinta) anos]" entre colchetes).
+
+### H.9. [MÉDIO] Item 95 e e f — Ressarcimento dos Estudos e taxa B3 em valores [●]
+
+> "deverão ser considerados os valores a serem pagos a título de RESSARCIMENTO DOS ESTUDOS"
+> "deverão ser considerados os valores a serem pagos à B3, a título de assessoria"
+
+O item 173 detalha o ressarcimento aos BID (USD 850.000,00 — conhecido) e ao FEP-CAIXA (R$ [•] + [•]% + R$ [•] — todos abertos). O item 160 d fixa pagamento à B3 em R$ [•].
+
+**Defeito**: a Proposta Comercial deve incluir ônus que estão em campo aberto. Modelagem inviável.
+
+### H.10. [GRAVE] Capital social mínimo da SPE (item 171) em [•]
+
+> "O capital social subscrito da CONCESSIONÁRIA deverá ser de, no mínimo, **R$ [•]**, sendo que, para fins de assinatura do CONTRATO, a CONCESSIONÁRIA deve integralizar **R$ [•]** em moeda corrente, calculado na data-base de [•] [...]"
+
+Três campos abertos numa cláusula que é condição para a assinatura. Sem isso, o licitante não consegue mobilizar capital.
+
+### H.11. [MÉDIO] Edital item 187/95 c — "deveriam ser considerados os valores a serem pagos a título de RESSARCIMENTO" — fórmula incompatível com a regra contábil
+
+O ressarcimento aos estudos é despesa fixa de mobilização (à parte do Multiplicador K). O item 95 e o repete como elemento da Proposta Comercial. Sem clareza se entra no Multiplicador K ou se é desembolso adicional na assinatura, o licitante não consegue precificar.
+
+→ A redação do Apêndice 4-B (Modelo A) só fala em "Multiplicador K [×] Tarifa Base", sem rubrica para ressarcimento. **Lacuna do modelo.**
+
+### H.12. [MÉDIO] Item 110 a iii veda somatório, mas item 111 admite "apresentação de atestado por um ou mais membros do consórcio" para o mesmo dispositivo
+
+Item 110 a (iii): "Não será admitido o somatório de atestados para o cumprimento das exigências previstas no item 110, a), (i) e (ii) acima."
+
+Item 111: "No caso de consórcio, admitir-se-á, para efeito do item 110 a apresentação de atestado por um ou mais membros do consórcio, observadas as regras para o somatório de atestados prevista nos item 110 a)(iii) e b)(i)."
+
+**Defeito**: o item 111 admite atestados de "um ou mais membros" para o item 110 a, MAS o 110 a (iii) veda o somatório. A redação do 111 cria expectativa errada. **Correção**: trocar "um ou mais membros" por "qualquer um dos membros" em 111 para clarear que cada atestado deve atender INTEGRALMENTE o quantitativo mínimo, vedado o somatório.
+
+### H.13. [MÉDIO] Comparação item 110 b iv x item 110 b ix — pisos diferentes para "responsável" no consórcio
+
+- Item 110 b (iv) (b): "o consorciado, com participação mínima de **10%** (dez por cento) no consórcio responsável pela gestão/administração do ativo de infraestrutura" — atestado emitido em favor de consórcio anterior do qual o licitante (ou seu membro) participou com pelo menos 10%.
+- Item 110 b (ix): "Em caso de LICITANTE em forma de consórcio, a empresa consorciada que apresentar o(s) atestado(s) [...] deverá deter **20% de participação** no consórcio" — participação no CONSÓRCIO LICITANTE ATUAL.
+
+**Defeito**: os dois pisos (10% no consórcio antigo + 20% no consórcio atual) tratam de coisas diferentes, mas a redação confunde. Vale verificar se a leitura combinada (consorciada com ≥ 20% no consórcio licitante apresenta atestado em que ela tinha ≥ 10% no consórcio anterior) era intencional.
+
+### H.14. [MÉDIO] Item 95 c veda considerar benefícios fiscais — incoerente com a Lei 14.133/21 (art. 26) e com a sistemática de modicidade tarifária
+
+> "c) não deverão ser considerados quaisquer benefícios fiscais que possam vir a ser conferidos à CONCESSIONÁRIA pela União, Estado ou Municípios, durante o prazo da CONCESSÃO;"
+
+**Defeito**: a redação impede o licitante de considerar benefícios fiscais existentes (por exemplo, IRPJ/CSLL pelo Lucro Real, lei do Bem etc.) na sua modelagem. A leitura restrita levaria o licitante a precificar mais alto que o necessário. **Em concessões, o tratamento usual é considerar a estrutura fiscal vigente, ressalvando benefícios futuros via reequilíbrio.**
+
+### H.15. [MÉDIO] Item 41 vs. item 145 — "desclassificação ou inabilitação" sem prévia diligência vs. saneamento de falhas
+
+- Item 41 (p. 18): "A apresentação de documentação em desacordo com os requisitos previstos no EDITAL implicará na desclassificação ou inabilitação da LICITANTE."
+- Item 145 (p. 46): "Eventuais falhas, omissões ou defeitos formais nos documentos apresentados pelas LICITANTES nos ENVELOPES poderão ser relevados ou sanados, a juízo da COMISSÃO DE CONTRATAÇÃO, mesmo que, para tanto, seja necessária a realização de diligência."
+
+**Defeito**: o item 41 é categórico (= desclassifica), o item 145 é discricionário e admite saneamento. A redação do item 41 deve ser ressalvada por "respeitado o disposto no item 145". O art. 64 da Lei 14.133/21 confere ao licitante o direito ao saneamento — a redação genérica do item 41 pode ser usada para desclassificar sem oportunidade de correção.
+
+### H.16. [MÉDIO] Item 169 — SPE como sociedade anônima — incompatibilidade prática com fundo/EFPC participante
+
+> "169. A CONCESSIONÁRIA deverá assumir a forma de **sociedade anônima** [...]"
+
+Quando o licitante for fundo de investimento (item 33 do Edital), a constituição de SPE como S/A é juridicamente compatível, mas operacionalmente pesada (Lei 6.404/76 + governança IBGC). Para fundos puros, é frequente o uso de S/A fechada com acionista único — possível, mas onera. Não é defeito jurídico, mas vale verificar a coerência (S/A fechada admite acionista único; cf. art. 251 da Lei 6.404/76 — só por subsidiária integral de outra S/A brasileira).
+
+→ **Pode ser obstáculo prático**: fundo de investimento não-S.A. não pode constituir subsidiária integral via art. 251 da Lei 6.404/76. O Edital pressupõe que a Adjudicatária seja S.A. para constituir subsidiária integral. Para outros tipos de Adjudicatária, pode ser exigida a constituição como S/A unipessoal (Lei 6.404/76 com Lei 14.195/2021), mas o Edital não esclarece.
+
+### H.17. [MÉDIO] Item 21 — APÊNDICE 6 (Esclarecimentos) integra o Edital após a etapa de esclarecimentos
+
+> "Os esclarecimentos prestados pela COMISSÃO DE CONTRATAÇÃO integrarão o EDITAL como se nele estivessem transcritos, como o **APÊNDICE 6**"
+
+**Defeito de hierarquia**: o Apêndice 6 (Esclarecimentos) pode trazer interpretações que se chocam com o texto original do Edital ou do Contrato. Cláusula 3.1.3 do Contrato traz a hierarquia interpretativa entre Apêndices, mas o Apêndice 6 não está expressamente listado. Lacuna interpretativa.
+
+### H.18. [MÉDIO] Item 173 a — ressarcimento ao BID em USD com câmbio "imediatamente anterior ao efetivo pagamento"
+
+> "convertidos para reais pela taxa de câmbio PTAX de venda do dia útil imediatamente anterior ao efetivo pagamento."
+
+**Defeito**: a Concessionária assume o risco cambial integral entre a Proposta Comercial e a efetiva assinatura (até 60 dias, prorrogáveis). Para USD 850.000 e variação de 5% a 10%, são R$ 200.000 a R$ 400.000 de exposição. Risco material que deveria ter cláusula de proteção (limites, hedge, ou trava de câmbio na data da Proposta). Não há.
+
+### H.19. [BAIXO] Item 70 c — Endereço da Comissão = "CONSÓRCIO PRÓ-SINOS" sem CEP/endereço completo
+
+A formatação dos envelopes pede destinatário "À COMISSÃO DE CONTRATAÇÃO DO CONSÓRCIO PRÓ-SINOS", mas não vincula CEP/endereço. Como os envelopes vão à B3 em São Paulo (item 72), a redação dos rótulos pode confundir.
+
+### H.20. [BAIXO] Item 95 i — prazo "[•] ([•]) anos" — campo aberto duplo
+
+Mesma redação do item 95 i. Vide H.8.
+
+### H.21. [MÉDIO] Item 153 — última instância recursal sem identificação
+
+> "Concluído o julgamento dos eventuais recursos, o resultado definitivo da LICITAÇÃO será divulgado [...] não cabendo mais recurso da decisão da **autoridade máxima competente**."
+
+A "autoridade máxima competente" não está identificada. Provavelmente o Presidente do Consórcio, mas seria oportuno especificar. Cf. item 154 ("O resultado da LICITAÇÃO será submetido à deliberação do **presidente do CONSÓRCIO PÚBLICO**").
+
+### H.22. [BAIXO] Cabeçalho do Edital usa "CONSÓRCIO PUBLICO" sem indicar o presidente
+
+O preâmbulo (item 1) cita CNPJ e endereço, mas não nomeia o Presidente do Consórcio. A capa traz "O Presidente do CONSÓRCIO PÚBLICO torna público" — sem assinatura nominal. Para certificação de autoria, o documento prevê a assinatura ao final ("Presidente da COMISSÃO" — última linha, p. 53), mas com nome também `[•]`.
+
+### H.23. [GRAVE] Item 138 e seguintes — "Será desclassificada a PROPOSTA COMERCIAL [...] que contiverem outros vícios capazes de comprometer sua validade" — cláusula aberta
+
+> "138. e) que contiverem outros vícios capazes de comprometer sua validade."
+
+**Defeito**: cláusula aberta de desclassificação. Sem critérios objetivos, a Comissão tem discricionariedade ampla para desclassificar. Confronto com art. 5° (legalidade), art. 18 e art. 60, da Lei 14.133/21 (vinculação a critérios objetivos). Pode gerar litígio sobre desclassificação subjetiva.
+
+### H.24. [MÉDIO] Item 21 — "qualquer outra informação não constante deste EDITAL, eventualmente obtida pelas LICITANTES de qualquer outra forma, não vinculará a COMISSÃO DE CONTRATAÇÃO ou o PODER CONCEDENTE"
+
+A cláusula busca proteger o Consórcio contra interpretações informais, mas pode chocar com o princípio do interesse público se a Comissão tiver dado, em ofício ou e-mail, orientação que se entende dentro dos esclarecimentos. **Cláusula de eficácia duvidosa**.
+
+### H.25. [MÉDIO] Item 95 b — Proposta deve abranger "todos os custos referentes ao cumprimento do objeto do CONTRATO" — vedação implícita ao reequilíbrio por insuficiência de modelagem
+
+**Confronto com a Matriz de Riscos**: a Matriz aloca certos riscos ao Poder Concedente, com reequilíbrio em caso de materialização. O item 95 b do Edital, no entanto, é generalista: "todos os custos". A leitura literal pode ser usada pela Administração para resistir a pleitos de reequilíbrio com base no "tudo já estava na Proposta". Tensão interpretativa.
 
 ---
 
-**Fim do Agente 04.** Próximos: Agente 05 (escopo operacional), Agente 02a/02b (licitação) e Agente 03a/03b (riscos), seguidos da Fase 2 do Agente 01 (jurisprudência sobre os achados acima).
+## I. RANKING CONSOLIDADO DOS DEFEITOS (revisado com o Edital)
+
+1. **D.1** — Fórmula tarifária incompatível entre Apêndice 4-A e Resolução do Consórcio. **Risco de impugnação certo.**
+2. **F.2 / G** — REGULADOR não identificado em nenhum documento (incluindo o Edital).
+3. **F.1 + Apêndice 1 ausente** — Apêndice 1 (Definições) é citado no item 9 a do Edital com força vinculante; sem ele, dezenas de termos (BEM REVERSÍVEL, RECEITA EXTRAORDINÁRIA etc.) ficam sem definição material.
+4. **H.2** — Cronograma referencial integralmente em `[•]` (item 127).
+5. **H.5 / H.6** — Quantitativos mínimos de habilitação técnica (toneladas/dia + receita operacional anual) em `[●]`. Habilitação técnica objetivamente inaferível.
+6. **D.4 / F.3** — Convênio omisso sobre contraprestação ao Prestador de Água.
+7. **A.7 / B.1 / E.2** — Erros "Error! Reference source not found." na Matriz de Riscos truncam itens críticos (inadimplência).
+8. **A.1 / A.2 / A.3 / A.4** — Quatro referências cruzadas a Anexos errados em cláusulas-chave (30.8, 8.4.2, 23.4, 19.8/19.9).
+9. **A.5** — Numeração quebrada de 20.13–20.19 (FI).
+10. **H.1 / B.8 / B.9** — **RSU vs. RDO** que perpassa Edital, Resolução e cabeçalhos.
+11. **H.3** — 15 Leis Municipais autorizativas em `[•]` (item 8 j a x). Vício de motivação legal específica.
+12. **H.7 / H.10** — Garantia de Proposta e Capital Social da SPE em valores absolutos `[•]`.
+13. **H.8 / H.20** — Item 95 i: prazo da concessão "em `[•]` ([•]) anos" — incoerente com item 12 (30 anos).
+14. **D.2 / E.1** — Vedação de aterro em 1.1.4 do Caderno entra em choque com 3.6.3 e Tabela 1.
+15. **D.5** — Conta Verde sem destinação no Contrato de Concessão (só no Contrato de Programa).
+16. **D.8** — Risco de Residencial Social >15% só reequilibra após primeira Revisão Ordinária — transfere risco à Concessionária por 4 anos.
+17. **D.9** — Conflito Caderno (subprodutos como obrigação técnica + estimativa de energia) x Contrato (receitas extraordinárias aleatórias).
+18. **H.18** — Ressarcimento BID em USD com PTAX do dia anterior — risco cambial integral à Concessionária por até 60 dias.
+19. **H.23** — Cláusula aberta de desclassificação (item 138 e — "outros vícios").
+20. **H.4** — Endereço da B3 em `[•]` (item 4).
+21. **H.9** — Itens 95 e/f / 173 — valores de ressarcimento ao FEP em `[•]`.
+22. **H.12** — Item 110 a iii vs. item 111 — somatório de atestados — redação contraditória.
+23. **H.14** — Vedação de considerar benefícios fiscais (item 95 c) — modelagem distorcida.
+24. **H.15** — Item 41 vs. item 145 — desclassificação automática vs. saneamento.
+25. **H.25** — Item 95 b ("todos os custos") como argumento para resistir a pleitos de reequilíbrio.
+26. **B.7** — "Água" vs. "Água e Esgoto" entre Apêndice 7 e Anexo 7.
+27. **D.3** — Lista de municípios — 15 na concessão, 26 no Estatuto consorcial.
+28. **B.1** — Inciso IX faltante e dois X na Resolução Tarifária (art. 5).
+29. **D.6** — Pagamento à Conta Específica do PC no início da FASE 1 sem fonte de receita.
+30. **F.4** — Procedimento do FI truncado.
+31. **D.10** — Três órgãos de governança paralelos sem hierarquia clara.
+32. **B.6** — "Receita Acessória" x "Receita Extraordinária" — mesmo conceito, dois nomes.
+33. **B.4** — "Ordem de Execução" vs. "Ordem de Serviço".
+34. **H.16** — SPE como S.A. — operacionalmente onerosa para fundo/EFPC participante.
+35. **H.21** — Item 153 — "autoridade máxima competente" sem identificação.
+36. **H.13** — Pisos diferentes para "responsável" no consórcio (10% antigo / 20% atual).
+37. **H.17** — Apêndice 6 (Esclarecimentos) integra o Edital sem hierarquia explícita.
+38. **B.3 / B.5** — Inconsistências terminológicas menores ("FASE 1 – PRÉ-OPERACIONAL", "ROB" vs. "RBO").
+39. **D.7 / D.11 / D.12 / D.13 / E.3 / E.4 / F.5–F.13 / H.11 / H.19 / H.22 / H.24** — defeitos médios/leves remanescentes.
+
+---
+
+**Fim do Agente 04 (revisado com o Edital).** Próximos: Agente 02b (a refazer), Agente 01b (a refazer com confirmação do Edital), Agente 03b (a refazer com confirmação do Edital).
